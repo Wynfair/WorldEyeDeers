@@ -15,41 +15,44 @@
          # SUPER WHITE HOT LIST OF CLEAN SITES AND PROJECTS
          # Advertising/Opportunity CHEAT SHEET - HOT LIST - LIVE WIRE APPS?
          # Advertising GUILDS? INTERNETWAY? YELP for Affiliates?
-         
+         # PAYABLE IN ANY COIN LIKE THE DAPPS
 
-# WE COULD DO THIS WITH BEAMCOIN OR MAKE A DEVICE
-# HARD CODED ROM PROGRAMABLE LOGIC CURCUITS - SUPER SECURITY
-# PAYABLE IN ANY COIN LIKE THE DAPPS
+# BEAMCOIN OR RAVENCOIN
+      # BACKING FOR SMARTCONTRACTS
+      # FOR SPLICING INTO US POWER/ELEMENTAL COINS
+
+# HARD CODED ROM PROGRAMABLE LOGIC CURCUITS - SUPER SECURITY 
+      Each system needs to be designed FOR recycle.  Systems need to be programed 
+      waiting for breakdown rather than waiting for success.
+      presemptive measures can be implemented to smoothen transitionary upgrades
+      recycle is automatic.
 
 # SOLAR PANELS - MICRO SOLAR PANELS, MICRO ENERGY GENERATION & Distribution Apps THOERY
 
-     #Imagine everyone has a 5 Watt Solar cell connected to small lead acid or better battery banks and that
-     #power couild be measured, then converted, and fed into the device.
-     #For less than $100 usd we could have small micro watt "proofs-of-work" 
+     #Imagine everyone has a 5 Watt Solar cell connected to small lead acid or better battery banks        #and that power couild be measured, then converted, and fed into the device.
+     #For less than $100 we could have small micro watt "proofs-of-work" 
      #happening on every computer or device in the world!
      
 # Small battery packs (Plenty of room for home research)
 
-#     - Litium Ion - Aluminium Magnesium - Lead Acid
-#     WE NEED APS THAT CAN MEASURE POWER LEVELS
+#     Litium Ion - Aluminium Magnesium - Lead Acid
+
+#     Advanced Alkalytic Composites
+
+#     APS THAT CAN MEASURE POWER LEVELS
      
 # Small solar cells 
+      Easy Do-It-Yourself guides are EVERYWHERE for making these.
+      Small power conversion - how to make this more efficient? scale
+      small savings, small calculations, small hashes 
+      paid for by YOUR PANEL(s),
 
-#     Easy Do-It-Yourself guides are EVERYWHERE for making these.
-     
-# small power conversion - how to make this more efficient?
-
-# small savings, small calculations, small hashes
-
-# paid for by YOUR PANEL(s),
-
-# YOUR PROOF OF WORK! 
-
-#     One 5 watt cell for 4 hours = 20 watts 
-#     but what if 1% of the whole world tried it?
-#     That would be 5,416,666.666666667 KILOWATT HOURS OF POWER! (5.416MW)
-#     AND at .09 per KWH that would equal $487,500 PER DAY!
-#     Prices vary by place! Some places charge $0.25 per KWH!
+# YOUR PROOF OF WORK    -     YOUR POWER   -     YOUR MONEY
+      One 5 watt cell for 4 hours = 20 watts 
+      but what if 1% of the whole world tried it?
+      That would be 5,416,666.666666667 KILOWATT HOURS OF POWER! (5.416MW)
+      AND at .09 per KWH that would equal $487,500 PER DAY!
+      Prices vary by place! Some places charge $0.25 per KWH!
 
 # Imagine all of the things we would be able to do! Want more money? Add more panels, make more power!
 # And on and on. Green tax incentives may make a project like this very lucrative.
