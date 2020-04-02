@@ -1,8 +1,11 @@
 # WorldEyeDeers
+
 # Crypto-currency Economic Development - Cyber-security - Network Defenses - Software Development - Independent Media
 
 # The purpose of this place is to improve level of awareness for the general public about online threats and security
-
+   # HIGH PRIORITY UPDATE 
+   # References:   "https://www.sophos.com/en-us/labs/security-threat-report.aspx"
+   
 # Discuss and develop secure practices for crypto mining.
 
 # Discuss, develop and coordinate monetization of virtual goods, BEYOND SOFTWARE.
