@@ -1,19 +1,16 @@
 # WorldEyeDeers
 
-# Crypto-currency Economic Development - Cyber-security - Network Defenses - Software Development - Independent Media
-
-# The purpose of this place is to improve level of awareness for the general public about online threats and security
-   # HIGH PRIORITY UPDATE 
-   # References:   "https://www.sophos.com/en-us/labs/security-threat-report.aspx"
-   
-# Discuss and develop secure practices for crypto mining.
-
-# Discuss, develop and coordinate monetization of virtual goods, BEYOND SOFTWARE.
+# Cyber-security - Network Defenses - Software Development - Independent Media
+      # the purpose of this place is to improve level of awareness for the general public about online threats and security
+      # HIGH PRIORITY UPDATE 
+      # References:   "https://www.sophos.com/en-us/labs/security-threat-report.aspx"
+# Crypto-currency Economic Development -   
+      # Discuss and develop secure practices for crypto mining.
+      # Discuss, develop and coordinate monetization of virtual goods, BEYOND SOFTWARE.
 
 # Crypto-Currency App Development/integration MODS (NOT GAMES)
    #  Virtual currencies within games already exist.
    #  Games and apps with them already exist.
-   
          # Browser Extensions like DAPPER, META-MASK, BRAVE - the more the merrier
          # SUPER WHITE HOT LIST OF CLEAN SITES AND PROJECTS
          # Advertising/Opportunity CHEAT SHEET - HOT LIST - LIVE WIRE APPS?
