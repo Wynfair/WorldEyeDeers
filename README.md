@@ -14,7 +14,13 @@
       # Unknown minor coin connections lead to assumed values. <- RESEARCH
       # ROMs made 8bit and 16bit code unchangeable, but stealable.
       # Physical write protected drive switches - 1.44 mb style
-      # 
+      # Rainbow handshake / changeable / updateable / GPU-capable ONLY 
+            # following upgrade slope - ASIC's are as primative as Flinstones Car
+            # Do ASIC's lead to more waste?
+            # Can GPU Mining pools for OLDER MINERS be created? (SUPER OLD like <1g)
+            # OF COURSE IT CAN - STRIP IT DOWN - USE UNIX - MAKE BINGO COINS
+            
+      
 # Crypto-currency Economic Development
       # Discuss and develop secure practices for crypto mining.
       # Discuss, develop and coordinate monetization of virtual goods, BEYOND SOFTWARE.
