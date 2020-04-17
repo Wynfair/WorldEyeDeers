@@ -9,8 +9,9 @@
             #mining software - engages broadcast of hashing/ personal data/ scanning for bitcoin wallets throughout
             #doesnt ransom per se, simply sets up "node"....to be continued - 4/17/2020 God help us...
       # Most have a HUGE RELIANCE ON TRON SCRIPT - HUBRIS ALERT
+      # Special Security as a Service? =  SSAASie ...
       # Crypto Wallets and DAPPS are not being coded with security at the forefront
-      # Most people don't know what each minor coin is connected to and assume values. 
+      # Unknown minor coin connections lead to assumed values. <- RESEARCH
       # ROMs made 8bit and 16bit code unchangeable, but stealable.
       # Physical write protected drive switches - 1.44 mb style
       # 
